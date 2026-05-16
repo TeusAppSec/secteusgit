@@ -78,10 +78,6 @@ simple-security-scanner      # Ferramenta de automação de segurança
 
 <a href="mailto:teussimao@zohomai.com">
   <img src="https://img.shields.io/badge/Email-280137?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/teussimao">
-  <img src="https://img.shields.io/badge/Instagram-280137?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>  
 
 </p>
